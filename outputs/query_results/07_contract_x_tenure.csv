@@ -1,0 +1,7 @@
+contract,tenure_group,customers,churn_rate_pct
+Month-to-month,0-12 months,1994,51.4
+Month-to-month,13+ months,1881,33.5
+One year,13+ months,1349,11.3
+One year,0-12 months,124,10.5
+Two year,13+ months,1627,3.0
+Two year,0-12 months,68,0.0
